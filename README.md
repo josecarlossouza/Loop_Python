@@ -1,5 +1,13 @@
-Exercícios do curso de Programação Portal Tech
+<h1> <strong>Portal Tech</strong></h1>
 
-*AWS
-*Meta
-*Proz Educação
+<h2>Turma 15 - Introdução à Programação com Foco em Front-End</h2>
+
+<h2><strong>Exercícios do Curso: </strong></h2>
+
+
+<h3>Parceria:</h3>
+<ul>
+<li>AWS</li>
+<li>Meta</li>
+<li><a href="https://pages.prozeducacao.com.br/proz-tecnologia"> Proz Educação</a></li>
+</ul>
