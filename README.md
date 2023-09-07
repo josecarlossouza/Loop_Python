@@ -9,5 +9,5 @@
 <ul>
 <li>AWS</li>
 <li>Meta</li>
-<li><a href="https://pages.prozeducacao.com.br/proz-tecnologia"> Proz Educação</a></li>
+<li><a href="https://pages.prozeducacao.com.br/proz-tecnologia" target="_blank"> Proz Educação</a></li>
 </ul>
