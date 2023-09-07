@@ -1,8 +1,8 @@
 <h1> <strong>Portal Tech</strong></h1>
 
-<h2>Turma 15 - Introdução à Programação com Foco em Front-End</h2>
+<h2>Exercícios do Curso:</h2>
 
-<h2><strong>Exercícios do Curso: </strong></h2>
+<h2><strong>Introdução à Programação com Foco em Front-End - Turma 15</strong></h2>
 
 
 <h3>Parceria:</h3>
